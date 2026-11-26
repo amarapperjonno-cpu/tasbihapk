@@ -1,0 +1,25 @@
+{
+  "name": "দৈনিক আমল ও মোনাজাত",
+  "short_name": "Tasbih",
+  "description": "Daily Amal, Tasbih & Munajat mobile web app",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D4D3B",
+  "theme_color": "#146C53",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

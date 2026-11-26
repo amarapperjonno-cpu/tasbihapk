@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">দৈনিক আমল ও মোনাজাত</string>
+    <string name="press_back_again">আবার ব্যাক চাপুন বের হতে · Press back again to exit</string>
+    <string name="offline_title">ইন্টারনেট সংযোগ নেই · No Internet Connection</string>
+    <string name="offline_message">অনুগ্রহ করে ইন্টারনেট চালু করে আবার চেষ্টা করুন। Please check your connection and try again.</string>
+    <string name="retry_button">আবার চেষ্টা করুন · Retry</string>
+    <string name="cannot_open_link">Unable to open external link</string>
+</resources>
